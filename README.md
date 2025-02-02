@@ -37,11 +37,11 @@ A fun Discord bot where random E-Girls appear in your server! Befriend them, tra
 
 ## Commands 🎮
 
-- /bef: Befriend an E-Girl
-- /fren: Check your friendship count
-- /leaderboard: View the global leaderboard
-- /debug_data: View raw data (owner only)
-- /fix_data: Fix data issues (owner only)
+- **/bef:** Befriend an E-Girl
+- **/fren:** Check your friendship count
+- **/leaderboard:** View the global leaderboard
+- **/debug_data:** View raw data (owner only)
+- **/fix_data:** Fix data issues (owner only)
 
 ## Configuration ⚙️
 
